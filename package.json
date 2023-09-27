@@ -1,0 +1,19 @@
+{
+  "name": "ecomerce",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "setup": "evershop install",
+    "start": "evershop start",
+    "build": "evershop build",
+    "dev": "evershop dev"
+  },
+  "workspaces": [
+    "extensions/*"
+  ],
+  "dependencies": {
+    "@evershop/evershop": "1.0.0-rc.3",
+    "@sendgrid/mail": "^7.7.0",
+    "evershop-razorpay": "^1.0.5"
+  }
+}

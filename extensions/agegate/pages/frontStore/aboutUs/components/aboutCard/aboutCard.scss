@@ -1,0 +1,54 @@
+.aboutCard{
+  padding: 10px 40px;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  width: 100%;
+  height: 55vh;
+  .textSection{
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    flex-direction: column;
+    height: 100%;
+    width: 50%;
+    &__subTitle{
+      color: #8bbb57;
+      font-weight: 600;
+      text-transform: uppercase;
+      letter-spacing: .4em;
+    }
+    &__title{
+      font-size: 26px;
+      font-weight: 700;
+      text-transform: uppercase;
+      letter-spacing: .1em;
+    }
+    &__text{
+      font-family: Cabin,Arial,Helvetica,sans-serif;
+      font-weight: 400;
+      font-size: 15px;
+      color: #737373;
+    }
+  }
+  .imageSection{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+    width: 50%;
+    &__image{
+      height: 90%;
+      max-width: 500px;
+      object-fit: contain;
+    }
+    &__video{
+      height: 90%;
+      width: 95%;
+      max-width: 1000px;
+    }
+  }
+}
+.reverse{
+  flex-direction: row-reverse;
+}
