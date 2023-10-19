@@ -89,7 +89,7 @@
     "system": {
         "theme": "eve",
         "database": {
-            "host": "cbdterra.cspyhpsqawij.eu-west-2.rds.amazonaws.com",
+            "host": "localhost",
             "port": "5432",
             "database": "postgres",
             "user": "postgres",
