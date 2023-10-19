@@ -3,6 +3,7 @@ module.exports = {
     {
       name: "evershopAzure",
       script: "npm",
+      
       env: {
         NODE_ENV: "production",
       },
