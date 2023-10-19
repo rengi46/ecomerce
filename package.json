@@ -3,10 +3,10 @@
   "version": "0.1.0",
   "private": true,
   "scripts": {
-    "setup": "evershop install",
+    "build": "evershop build --skip-minify",
     "start": "evershop start",
-    "build": "evershop build",
-    "dev": "evershop dev"
+    "user:create": "evershop user:create",
+    "user:changePassword": "evershop user:changePassword"
   },
   "workspaces": [
     "extensions/*"
