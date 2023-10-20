@@ -3,6 +3,7 @@ import ContactForm from './components/formContact/ContactForm'
 import './contact.scss'
 
 const Contact = ({}) => {
+  const modal = document.querySelector('.modal'); modal.style.backgroundColor = 'red';
   return (
     <div className='contact' >
       <div className='contact__container' >
