@@ -2,11 +2,10 @@ import React from "react";
 import  "./Mesa.scss";
 
 function FreeShippingBar() {
-  console.log("Mesa");
-  console.log(screen.width);
-  if(screen.width < 768){
-    window.location.href = "/categories";
-  }
+
+  // if(screen.width < 768){
+  //   window.location.href = "/categories";
+  // }
   return (
     <div className="mesa">
       <div className="mesa__p1">

@@ -25,11 +25,6 @@ Area.defaultProps.components = {
       sortOrder: 20,
       component: require('C:\\Users\\Sergi\\Desktop\\Personal\\Simon\\ecomerce\\node_modules\\@evershop\\evershop\\src\\modules\\catalog\\pages\\admin\\all\\CatalogMenuGroup.jsx')
     },
-    'XG5vZGVfbW9kdWxlc1xAZXZlcnNob3BcZXZlcnNob3Bcc3JjXG1vZHVsZXNcY2hlY2tvdXRccGFnZXNcYWRtaW5cYWxsXENoZWNrb3V0TWVudUdyb3VwLmpzeA==': {
-      id: 'XG5vZGVfbW9kdWxlc1xAZXZlcnNob3BcZXZlcnNob3Bcc3JjXG1vZHVsZXNcY2hlY2tvdXRccGFnZXNcYWRtaW5cYWxsXENoZWNrb3V0TWVudUdyb3VwLmpzeA==',
-      sortOrder: 30,
-      component: require('C:\\Users\\Sergi\\Desktop\\Personal\\Simon\\ecomerce\\node_modules\\@evershop\\evershop\\src\\modules\\checkout\\pages\\admin\\all\\CheckoutMenuGroup.jsx')
-    },
     XG5vZGVfbW9kdWxlc1xAZXZlcnNob3BcZXZlcnNob3Bcc3JjXG1vZHVsZXNcY21zXHBhZ2VzXGFkbWluXGFsbFxDbXNNZW51R3JvdXAuanN4: {
       id: 'XG5vZGVfbW9kdWxlc1xAZXZlcnNob3BcZXZlcnNob3Bcc3JjXG1vZHVsZXNcY21zXHBhZ2VzXGFkbWluXGFsbFxDbXNNZW51R3JvdXAuanN4',
       sortOrder: 60,
@@ -44,6 +39,11 @@ Area.defaultProps.components = {
       id: 'XG5vZGVfbW9kdWxlc1xAZXZlcnNob3BcZXZlcnNob3Bcc3JjXG1vZHVsZXNcY3VzdG9tZXJccGFnZXNcYWRtaW5cYWxsXEN1c3RvbWVyTWVudUdyb3VwLmpzeA==',
       sortOrder: 40,
       component: require('C:\\Users\\Sergi\\Desktop\\Personal\\Simon\\ecomerce\\node_modules\\@evershop\\evershop\\src\\modules\\customer\\pages\\admin\\all\\CustomerMenuGroup.jsx')
+    },
+    XG5vZGVfbW9kdWxlc1xAZXZlcnNob3BcZXZlcnNob3Bcc3JjXG1vZHVsZXNcb21zXHBhZ2VzXGFkbWluXGFsbFxPbXNNZW51R3JvdXAuanN4: {
+      id: 'XG5vZGVfbW9kdWxlc1xAZXZlcnNob3BcZXZlcnNob3Bcc3JjXG1vZHVsZXNcb21zXHBhZ2VzXGFkbWluXGFsbFxPbXNNZW51R3JvdXAuanN4',
+      sortOrder: 30,
+      component: require('C:\\Users\\Sergi\\Desktop\\Personal\\Simon\\ecomerce\\node_modules\\@evershop\\evershop\\src\\modules\\oms\\pages\\admin\\all\\OmsMenuGroup.jsx')
     },
     XG5vZGVfbW9kdWxlc1xAZXZlcnNob3BcZXZlcnNob3Bcc3JjXG1vZHVsZXNccHJvbW90aW9uXHBhZ2VzXGFkbWluXGFsbFxDb3Vwb25NZW51R3JvdXAuanN4: {
       id: 'XG5vZGVfbW9kdWxlc1xAZXZlcnNob3BcZXZlcnNob3Bcc3JjXG1vZHVsZXNccHJvbW90aW9uXHBhZ2VzXGFkbWluXGFsbFxDb3Vwb25NZW51R3JvdXAuanN4',
@@ -66,76 +66,6 @@ Area.defaultProps.components = {
       id: 'XG5vZGVfbW9kdWxlc1xAZXZlcnNob3BcZXZlcnNob3Bcc3JjXG1vZHVsZXNccHJvbW90aW9uXHBhZ2VzXGFkbWluXGFsbFxOZXdDb3Vwb25RdWlja0xpbmsuanN4',
       sortOrder: 30,
       component: require('C:\\Users\\Sergi\\Desktop\\Personal\\Simon\\ecomerce\\node_modules\\@evershop\\evershop\\src\\modules\\promotion\\pages\\admin\\all\\NewCouponQuickLink.jsx')
-    }
-  },
-  settingPageMenu: {
-    XG5vZGVfbW9kdWxlc1xAZXZlcnNob3BcZXZlcnNob3Bcc3JjXG1vZHVsZXNcY2hlY2tvdXRccGFnZXNcYWRtaW5cYWxsXFNoaXBwaW5nU2V0dGluZ01lbnUuanN4: {
-      id: 'XG5vZGVfbW9kdWxlc1xAZXZlcnNob3BcZXZlcnNob3Bcc3JjXG1vZHVsZXNcY2hlY2tvdXRccGFnZXNcYWRtaW5cYWxsXFNoaXBwaW5nU2V0dGluZ01lbnUuanN4',
-      sortOrder: 15,
-      component: require('C:\\Users\\Sergi\\Desktop\\Personal\\Simon\\ecomerce\\node_modules\\@evershop\\evershop\\src\\modules\\checkout\\pages\\admin\\all\\ShippingSettingMenu.jsx')
-    },
-    'XG5vZGVfbW9kdWxlc1xAZXZlcnNob3BcZXZlcnNob3Bcc3JjXG1vZHVsZXNcc2V0dGluZ1xwYWdlc1xhZG1pblxhbGxcUGF5bWVudFNldHRpbmdNZW51LmpzeA==': {
-      id: 'XG5vZGVfbW9kdWxlc1xAZXZlcnNob3BcZXZlcnNob3Bcc3JjXG1vZHVsZXNcc2V0dGluZ1xwYWdlc1xhZG1pblxhbGxcUGF5bWVudFNldHRpbmdNZW51LmpzeA==',
-      sortOrder: 10,
-      component: require('C:\\Users\\Sergi\\Desktop\\Personal\\Simon\\ecomerce\\node_modules\\@evershop\\evershop\\src\\modules\\setting\\pages\\admin\\all\\PaymentSettingMenu.jsx')
-    },
-    'XG5vZGVfbW9kdWxlc1xAZXZlcnNob3BcZXZlcnNob3Bcc3JjXG1vZHVsZXNcc2V0dGluZ1xwYWdlc1xhZG1pblxhbGxcU3RvcmVTZXR0aW5nTWVudS5qc3g=': {
-      id: 'XG5vZGVfbW9kdWxlc1xAZXZlcnNob3BcZXZlcnNob3Bcc3JjXG1vZHVsZXNcc2V0dGluZ1xwYWdlc1xhZG1pblxhbGxcU3RvcmVTZXR0aW5nTWVudS5qc3g=',
-      sortOrder: 5,
-      component: require('C:\\Users\\Sergi\\Desktop\\Personal\\Simon\\ecomerce\\node_modules\\@evershop\\evershop\\src\\modules\\setting\\pages\\admin\\all\\StoreSettingMenu.jsx')
-    }
-  },
-  leftSide: {
-    XG5vZGVfbW9kdWxlc1xAZXZlcnNob3BcZXZlcnNob3Bcc3JjXG1vZHVsZXNcY2hlY2tvdXRccGFnZXNcYWRtaW5cb3JkZXJFZGl0XEFjdGl2aXRpZXMuanN4: {
-      id: 'XG5vZGVfbW9kdWxlc1xAZXZlcnNob3BcZXZlcnNob3Bcc3JjXG1vZHVsZXNcY2hlY2tvdXRccGFnZXNcYWRtaW5cb3JkZXJFZGl0XEFjdGl2aXRpZXMuanN4',
-      sortOrder: 30,
-      component: require('C:\\Users\\Sergi\\Desktop\\Personal\\Simon\\ecomerce\\node_modules\\@evershop\\evershop\\src\\modules\\checkout\\pages\\admin\\orderEdit\\Activities.jsx')
-    },
-    'XG5vZGVfbW9kdWxlc1xAZXZlcnNob3BcZXZlcnNob3Bcc3JjXG1vZHVsZXNcY2hlY2tvdXRccGFnZXNcYWRtaW5cb3JkZXJFZGl0XEl0ZW1zLmpzeA==': {
-      id: 'XG5vZGVfbW9kdWxlc1xAZXZlcnNob3BcZXZlcnNob3Bcc3JjXG1vZHVsZXNcY2hlY2tvdXRccGFnZXNcYWRtaW5cb3JkZXJFZGl0XEl0ZW1zLmpzeA==',
-      sortOrder: 10,
-      component: require('C:\\Users\\Sergi\\Desktop\\Personal\\Simon\\ecomerce\\node_modules\\@evershop\\evershop\\src\\modules\\checkout\\pages\\admin\\orderEdit\\Items.jsx')
-    },
-    XG5vZGVfbW9kdWxlc1xAZXZlcnNob3BcZXZlcnNob3Bcc3JjXG1vZHVsZXNcY2hlY2tvdXRccGFnZXNcYWRtaW5cb3JkZXJFZGl0XFBheW1lbnQuanN4: {
-      id: 'XG5vZGVfbW9kdWxlc1xAZXZlcnNob3BcZXZlcnNob3Bcc3JjXG1vZHVsZXNcY2hlY2tvdXRccGFnZXNcYWRtaW5cb3JkZXJFZGl0XFBheW1lbnQuanN4',
-      sortOrder: 20,
-      component: require('C:\\Users\\Sergi\\Desktop\\Personal\\Simon\\ecomerce\\node_modules\\@evershop\\evershop\\src\\modules\\checkout\\pages\\admin\\orderEdit\\Payment.jsx')
-    }
-  },
-  rightSide: {
-    'XG5vZGVfbW9kdWxlc1xAZXZlcnNob3BcZXZlcnNob3Bcc3JjXG1vZHVsZXNcY2hlY2tvdXRccGFnZXNcYWRtaW5cb3JkZXJFZGl0XEN1c3RvbWVyLmpzeA==': {
-      id: 'XG5vZGVfbW9kdWxlc1xAZXZlcnNob3BcZXZlcnNob3Bcc3JjXG1vZHVsZXNcY2hlY2tvdXRccGFnZXNcYWRtaW5cb3JkZXJFZGl0XEN1c3RvbWVyLmpzeA==',
-      sortOrder: 15,
-      component: require('C:\\Users\\Sergi\\Desktop\\Personal\\Simon\\ecomerce\\node_modules\\@evershop\\evershop\\src\\modules\\checkout\\pages\\admin\\orderEdit\\Customer.jsx')
-    },
-    XG5vZGVfbW9kdWxlc1xAZXZlcnNob3BcZXZlcnNob3Bcc3JjXG1vZHVsZXNcY2hlY2tvdXRccGFnZXNcYWRtaW5cb3JkZXJFZGl0XEN1c3RvbWVyTm90ZXMuanN4: {
-      id: 'XG5vZGVfbW9kdWxlc1xAZXZlcnNob3BcZXZlcnNob3Bcc3JjXG1vZHVsZXNcY2hlY2tvdXRccGFnZXNcYWRtaW5cb3JkZXJFZGl0XEN1c3RvbWVyTm90ZXMuanN4',
-      sortOrder: 10,
-      component: require('C:\\Users\\Sergi\\Desktop\\Personal\\Simon\\ecomerce\\node_modules\\@evershop\\evershop\\src\\modules\\checkout\\pages\\admin\\orderEdit\\CustomerNotes.jsx')
-    }
-  },
-  content: {
-    'XG5vZGVfbW9kdWxlc1xAZXZlcnNob3BcZXZlcnNob3Bcc3JjXG1vZHVsZXNcY2hlY2tvdXRccGFnZXNcYWRtaW5cb3JkZXJFZGl0XExheW91dC5qc3g=': {
-      id: 'XG5vZGVfbW9kdWxlc1xAZXZlcnNob3BcZXZlcnNob3Bcc3JjXG1vZHVsZXNcY2hlY2tvdXRccGFnZXNcYWRtaW5cb3JkZXJFZGl0XExheW91dC5qc3g=',
-      sortOrder: 10,
-      component: require('C:\\Users\\Sergi\\Desktop\\Personal\\Simon\\ecomerce\\node_modules\\@evershop\\evershop\\src\\modules\\checkout\\pages\\admin\\orderEdit\\Layout.jsx')
-    },
-    'XG5vZGVfbW9kdWxlc1xAZXZlcnNob3BcZXZlcnNob3Bcc3JjXG1vZHVsZXNcY2hlY2tvdXRccGFnZXNcYWRtaW5cb3JkZXJFZGl0XFBhZ2VIZWFkaW5nLmpzeA==': {
-      id: 'XG5vZGVfbW9kdWxlc1xAZXZlcnNob3BcZXZlcnNob3Bcc3JjXG1vZHVsZXNcY2hlY2tvdXRccGFnZXNcYWRtaW5cb3JkZXJFZGl0XFBhZ2VIZWFkaW5nLmpzeA==',
-      sortOrder: 5,
-      component: require('C:\\Users\\Sergi\\Desktop\\Personal\\Simon\\ecomerce\\node_modules\\@evershop\\evershop\\src\\modules\\checkout\\pages\\admin\\orderEdit\\PageHeading.jsx')
-    }
-  },
-  pageHeadingLeft: {
-    XG5vZGVfbW9kdWxlc1xAZXZlcnNob3BcZXZlcnNob3Bcc3JjXG1vZHVsZXNcY2hlY2tvdXRccGFnZXNcYWRtaW5cb3JkZXJFZGl0XFBheW1lbnRTdGF0dXMuanN4: {
-      id: 'XG5vZGVfbW9kdWxlc1xAZXZlcnNob3BcZXZlcnNob3Bcc3JjXG1vZHVsZXNcY2hlY2tvdXRccGFnZXNcYWRtaW5cb3JkZXJFZGl0XFBheW1lbnRTdGF0dXMuanN4',
-      sortOrder: 10,
-      component: require('C:\\Users\\Sergi\\Desktop\\Personal\\Simon\\ecomerce\\node_modules\\@evershop\\evershop\\src\\modules\\checkout\\pages\\admin\\orderEdit\\PaymentStatus.jsx')
-    },
-    'XG5vZGVfbW9kdWxlc1xAZXZlcnNob3BcZXZlcnNob3Bcc3JjXG1vZHVsZXNcY2hlY2tvdXRccGFnZXNcYWRtaW5cb3JkZXJFZGl0XFNoaXBtZW50U3RhdHVzLmpzeA==': {
-      id: 'XG5vZGVfbW9kdWxlc1xAZXZlcnNob3BcZXZlcnNob3Bcc3JjXG1vZHVsZXNcY2hlY2tvdXRccGFnZXNcYWRtaW5cb3JkZXJFZGl0XFNoaXBtZW50U3RhdHVzLmpzeA==',
-      sortOrder: 20,
-      component: require('C:\\Users\\Sergi\\Desktop\\Personal\\Simon\\ecomerce\\node_modules\\@evershop\\evershop\\src\\modules\\checkout\\pages\\admin\\orderEdit\\ShipmentStatus.jsx')
     }
   },
   body: {
@@ -169,6 +99,103 @@ Area.defaultProps.components = {
       id: 'XG5vZGVfbW9kdWxlc1xAZXZlcnNob3BcZXZlcnNob3Bcc3JjXG1vZHVsZXNcY29kXHBhZ2VzXGFkbWluXG9yZGVyRWRpdFxDYXB0dXJlQnV0dG9uLmpzeA==',
       sortOrder: 10,
       component: require('C:\\Users\\Sergi\\Desktop\\Personal\\Simon\\ecomerce\\node_modules\\@evershop\\evershop\\src\\modules\\cod\\pages\\admin\\orderEdit\\CaptureButton.jsx')
+    }
+  },
+  settingPageMenu: {
+    'XG5vZGVfbW9kdWxlc1xAZXZlcnNob3BcZXZlcnNob3Bcc3JjXG1vZHVsZXNcb21zXHBhZ2VzXGFkbWluXGFsbFxTaGlwcGluZ1NldHRpbmdNZW51LmpzeA==': {
+      id: 'XG5vZGVfbW9kdWxlc1xAZXZlcnNob3BcZXZlcnNob3Bcc3JjXG1vZHVsZXNcb21zXHBhZ2VzXGFkbWluXGFsbFxTaGlwcGluZ1NldHRpbmdNZW51LmpzeA==',
+      sortOrder: 15,
+      component: require('C:\\Users\\Sergi\\Desktop\\Personal\\Simon\\ecomerce\\node_modules\\@evershop\\evershop\\src\\modules\\oms\\pages\\admin\\all\\ShippingSettingMenu.jsx')
+    },
+    'XG5vZGVfbW9kdWxlc1xAZXZlcnNob3BcZXZlcnNob3Bcc3JjXG1vZHVsZXNcc2V0dGluZ1xwYWdlc1xhZG1pblxhbGxcUGF5bWVudFNldHRpbmdNZW51LmpzeA==': {
+      id: 'XG5vZGVfbW9kdWxlc1xAZXZlcnNob3BcZXZlcnNob3Bcc3JjXG1vZHVsZXNcc2V0dGluZ1xwYWdlc1xhZG1pblxhbGxcUGF5bWVudFNldHRpbmdNZW51LmpzeA==',
+      sortOrder: 10,
+      component: require('C:\\Users\\Sergi\\Desktop\\Personal\\Simon\\ecomerce\\node_modules\\@evershop\\evershop\\src\\modules\\setting\\pages\\admin\\all\\PaymentSettingMenu.jsx')
+    },
+    'XG5vZGVfbW9kdWxlc1xAZXZlcnNob3BcZXZlcnNob3Bcc3JjXG1vZHVsZXNcc2V0dGluZ1xwYWdlc1xhZG1pblxhbGxcU3RvcmVTZXR0aW5nTWVudS5qc3g=': {
+      id: 'XG5vZGVfbW9kdWxlc1xAZXZlcnNob3BcZXZlcnNob3Bcc3JjXG1vZHVsZXNcc2V0dGluZ1xwYWdlc1xhZG1pblxhbGxcU3RvcmVTZXR0aW5nTWVudS5qc3g=',
+      sortOrder: 5,
+      component: require('C:\\Users\\Sergi\\Desktop\\Personal\\Simon\\ecomerce\\node_modules\\@evershop\\evershop\\src\\modules\\setting\\pages\\admin\\all\\StoreSettingMenu.jsx')
+    },
+    'XG5vZGVfbW9kdWxlc1xAZXZlcnNob3BcZXZlcnNob3Bcc3JjXG1vZHVsZXNcdGF4XHBhZ2VzXGFkbWluXGFsbFxUYXhTZXR0aW5nTWVudS5qc3g=': {
+      id: 'XG5vZGVfbW9kdWxlc1xAZXZlcnNob3BcZXZlcnNob3Bcc3JjXG1vZHVsZXNcdGF4XHBhZ2VzXGFkbWluXGFsbFxUYXhTZXR0aW5nTWVudS5qc3g=',
+      sortOrder: 20,
+      component: require('C:\\Users\\Sergi\\Desktop\\Personal\\Simon\\ecomerce\\node_modules\\@evershop\\evershop\\src\\modules\\tax\\pages\\admin\\all\\TaxSettingMenu.jsx')
+    }
+  },
+  leftSide: {
+    'XG5vZGVfbW9kdWxlc1xAZXZlcnNob3BcZXZlcnNob3Bcc3JjXG1vZHVsZXNcb21zXHBhZ2VzXGFkbWluXG9yZGVyRWRpdFxBY3Rpdml0aWVzLmpzeA==': {
+      id: 'XG5vZGVfbW9kdWxlc1xAZXZlcnNob3BcZXZlcnNob3Bcc3JjXG1vZHVsZXNcb21zXHBhZ2VzXGFkbWluXG9yZGVyRWRpdFxBY3Rpdml0aWVzLmpzeA==',
+      sortOrder: 30,
+      component: require('C:\\Users\\Sergi\\Desktop\\Personal\\Simon\\ecomerce\\node_modules\\@evershop\\evershop\\src\\modules\\oms\\pages\\admin\\orderEdit\\Activities.jsx')
+    },
+    'XG5vZGVfbW9kdWxlc1xAZXZlcnNob3BcZXZlcnNob3Bcc3JjXG1vZHVsZXNcb21zXHBhZ2VzXGFkbWluXG9yZGVyRWRpdFxJdGVtcy5qc3g=': {
+      id: 'XG5vZGVfbW9kdWxlc1xAZXZlcnNob3BcZXZlcnNob3Bcc3JjXG1vZHVsZXNcb21zXHBhZ2VzXGFkbWluXG9yZGVyRWRpdFxJdGVtcy5qc3g=',
+      sortOrder: 10,
+      component: require('C:\\Users\\Sergi\\Desktop\\Personal\\Simon\\ecomerce\\node_modules\\@evershop\\evershop\\src\\modules\\oms\\pages\\admin\\orderEdit\\Items.jsx')
+    },
+    'XG5vZGVfbW9kdWxlc1xAZXZlcnNob3BcZXZlcnNob3Bcc3JjXG1vZHVsZXNcb21zXHBhZ2VzXGFkbWluXG9yZGVyRWRpdFxQYXltZW50LmpzeA==': {
+      id: 'XG5vZGVfbW9kdWxlc1xAZXZlcnNob3BcZXZlcnNob3Bcc3JjXG1vZHVsZXNcb21zXHBhZ2VzXGFkbWluXG9yZGVyRWRpdFxQYXltZW50LmpzeA==',
+      sortOrder: 20,
+      component: require('C:\\Users\\Sergi\\Desktop\\Personal\\Simon\\ecomerce\\node_modules\\@evershop\\evershop\\src\\modules\\oms\\pages\\admin\\orderEdit\\Payment.jsx')
+    }
+  },
+  order_actions: {
+    'XG5vZGVfbW9kdWxlc1xAZXZlcnNob3BcZXZlcnNob3Bcc3JjXG1vZHVsZXNcb21zXHBhZ2VzXGFkbWluXG9yZGVyRWRpdFxBZGRUcmFja2luZ0J1dHRvbi5qc3g=': {
+      id: 'XG5vZGVfbW9kdWxlc1xAZXZlcnNob3BcZXZlcnNob3Bcc3JjXG1vZHVsZXNcb21zXHBhZ2VzXGFkbWluXG9yZGVyRWRpdFxBZGRUcmFja2luZ0J1dHRvbi5qc3g=',
+      sortOrder: 5,
+      component: require('C:\\Users\\Sergi\\Desktop\\Personal\\Simon\\ecomerce\\node_modules\\@evershop\\evershop\\src\\modules\\oms\\pages\\admin\\orderEdit\\AddTrackingButton.jsx')
+    },
+    'XG5vZGVfbW9kdWxlc1xAZXZlcnNob3BcZXZlcnNob3Bcc3JjXG1vZHVsZXNcb21zXHBhZ2VzXGFkbWluXG9yZGVyRWRpdFxNYXJrRGVsaXZlcmVkQnV0dG9uLmpzeA==': {
+      id: 'XG5vZGVfbW9kdWxlc1xAZXZlcnNob3BcZXZlcnNob3Bcc3JjXG1vZHVsZXNcb21zXHBhZ2VzXGFkbWluXG9yZGVyRWRpdFxNYXJrRGVsaXZlcmVkQnV0dG9uLmpzeA==',
+      sortOrder: 10,
+      component: require('C:\\Users\\Sergi\\Desktop\\Personal\\Simon\\ecomerce\\node_modules\\@evershop\\evershop\\src\\modules\\oms\\pages\\admin\\orderEdit\\MarkDeliveredButton.jsx')
+    },
+    'XG5vZGVfbW9kdWxlc1xAZXZlcnNob3BcZXZlcnNob3Bcc3JjXG1vZHVsZXNcb21zXHBhZ2VzXGFkbWluXG9yZGVyRWRpdFxTaGlwQnV0dG9uLmpzeA==': {
+      id: 'XG5vZGVfbW9kdWxlc1xAZXZlcnNob3BcZXZlcnNob3Bcc3JjXG1vZHVsZXNcb21zXHBhZ2VzXGFkbWluXG9yZGVyRWRpdFxTaGlwQnV0dG9uLmpzeA==',
+      sortOrder: 10,
+      component: require('C:\\Users\\Sergi\\Desktop\\Personal\\Simon\\ecomerce\\node_modules\\@evershop\\evershop\\src\\modules\\oms\\pages\\admin\\orderEdit\\ShipButton.jsx')
+    },
+    'XG5vZGVfbW9kdWxlc1xAZXZlcnNob3BcZXZlcnNob3Bcc3JjXG1vZHVsZXNcb21zXHBhZ2VzXGFkbWluXG9yZGVyRWRpdFxUcmFja2luZ0J1dHRvbi5qc3g=': {
+      id: 'XG5vZGVfbW9kdWxlc1xAZXZlcnNob3BcZXZlcnNob3Bcc3JjXG1vZHVsZXNcb21zXHBhZ2VzXGFkbWluXG9yZGVyRWRpdFxUcmFja2luZ0J1dHRvbi5qc3g=',
+      sortOrder: 15,
+      component: require('C:\\Users\\Sergi\\Desktop\\Personal\\Simon\\ecomerce\\node_modules\\@evershop\\evershop\\src\\modules\\oms\\pages\\admin\\orderEdit\\TrackingButton.jsx')
+    }
+  },
+  rightSide: {
+    'XG5vZGVfbW9kdWxlc1xAZXZlcnNob3BcZXZlcnNob3Bcc3JjXG1vZHVsZXNcb21zXHBhZ2VzXGFkbWluXG9yZGVyRWRpdFxDdXN0b21lci5qc3g=': {
+      id: 'XG5vZGVfbW9kdWxlc1xAZXZlcnNob3BcZXZlcnNob3Bcc3JjXG1vZHVsZXNcb21zXHBhZ2VzXGFkbWluXG9yZGVyRWRpdFxDdXN0b21lci5qc3g=',
+      sortOrder: 15,
+      component: require('C:\\Users\\Sergi\\Desktop\\Personal\\Simon\\ecomerce\\node_modules\\@evershop\\evershop\\src\\modules\\oms\\pages\\admin\\orderEdit\\Customer.jsx')
+    },
+    'XG5vZGVfbW9kdWxlc1xAZXZlcnNob3BcZXZlcnNob3Bcc3JjXG1vZHVsZXNcb21zXHBhZ2VzXGFkbWluXG9yZGVyRWRpdFxDdXN0b21lck5vdGVzLmpzeA==': {
+      id: 'XG5vZGVfbW9kdWxlc1xAZXZlcnNob3BcZXZlcnNob3Bcc3JjXG1vZHVsZXNcb21zXHBhZ2VzXGFkbWluXG9yZGVyRWRpdFxDdXN0b21lck5vdGVzLmpzeA==',
+      sortOrder: 10,
+      component: require('C:\\Users\\Sergi\\Desktop\\Personal\\Simon\\ecomerce\\node_modules\\@evershop\\evershop\\src\\modules\\oms\\pages\\admin\\orderEdit\\CustomerNotes.jsx')
+    }
+  },
+  content: {
+    XG5vZGVfbW9kdWxlc1xAZXZlcnNob3BcZXZlcnNob3Bcc3JjXG1vZHVsZXNcb21zXHBhZ2VzXGFkbWluXG9yZGVyRWRpdFxMYXlvdXQuanN4: {
+      id: 'XG5vZGVfbW9kdWxlc1xAZXZlcnNob3BcZXZlcnNob3Bcc3JjXG1vZHVsZXNcb21zXHBhZ2VzXGFkbWluXG9yZGVyRWRpdFxMYXlvdXQuanN4',
+      sortOrder: 10,
+      component: require('C:\\Users\\Sergi\\Desktop\\Personal\\Simon\\ecomerce\\node_modules\\@evershop\\evershop\\src\\modules\\oms\\pages\\admin\\orderEdit\\Layout.jsx')
+    },
+    'XG5vZGVfbW9kdWxlc1xAZXZlcnNob3BcZXZlcnNob3Bcc3JjXG1vZHVsZXNcb21zXHBhZ2VzXGFkbWluXG9yZGVyRWRpdFxQYWdlSGVhZGluZy5qc3g=': {
+      id: 'XG5vZGVfbW9kdWxlc1xAZXZlcnNob3BcZXZlcnNob3Bcc3JjXG1vZHVsZXNcb21zXHBhZ2VzXGFkbWluXG9yZGVyRWRpdFxQYWdlSGVhZGluZy5qc3g=',
+      sortOrder: 5,
+      component: require('C:\\Users\\Sergi\\Desktop\\Personal\\Simon\\ecomerce\\node_modules\\@evershop\\evershop\\src\\modules\\oms\\pages\\admin\\orderEdit\\PageHeading.jsx')
+    }
+  },
+  pageHeadingLeft: {
+    'XG5vZGVfbW9kdWxlc1xAZXZlcnNob3BcZXZlcnNob3Bcc3JjXG1vZHVsZXNcb21zXHBhZ2VzXGFkbWluXG9yZGVyRWRpdFxQYXltZW50U3RhdHVzLmpzeA==': {
+      id: 'XG5vZGVfbW9kdWxlc1xAZXZlcnNob3BcZXZlcnNob3Bcc3JjXG1vZHVsZXNcb21zXHBhZ2VzXGFkbWluXG9yZGVyRWRpdFxQYXltZW50U3RhdHVzLmpzeA==',
+      sortOrder: 10,
+      component: require('C:\\Users\\Sergi\\Desktop\\Personal\\Simon\\ecomerce\\node_modules\\@evershop\\evershop\\src\\modules\\oms\\pages\\admin\\orderEdit\\PaymentStatus.jsx')
+    },
+    'XG5vZGVfbW9kdWxlc1xAZXZlcnNob3BcZXZlcnNob3Bcc3JjXG1vZHVsZXNcb21zXHBhZ2VzXGFkbWluXG9yZGVyRWRpdFxTaGlwbWVudFN0YXR1cy5qc3g=': {
+      id: 'XG5vZGVfbW9kdWxlc1xAZXZlcnNob3BcZXZlcnNob3Bcc3JjXG1vZHVsZXNcb21zXHBhZ2VzXGFkbWluXG9yZGVyRWRpdFxTaGlwbWVudFN0YXR1cy5qc3g=',
+      sortOrder: 20,
+      component: require('C:\\Users\\Sergi\\Desktop\\Personal\\Simon\\ecomerce\\node_modules\\@evershop\\evershop\\src\\modules\\oms\\pages\\admin\\orderEdit\\ShipmentStatus.jsx')
     }
   }
 } 
